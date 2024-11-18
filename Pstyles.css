@@ -1,0 +1,38 @@
+body
+{
+    background-color:rgb(35, 24, 49)
+    
+}
+input
+{
+    background-color: purple;
+    border-color: black;
+    border-radius: 50px;
+    border-style: dotted;
+    width: 100px;
+    height: 30px;
+    cursor: crosshair;
+}
+
+p
+{
+    color:#f49f9f;
+
+}
+form
+{
+    color:aquamarine;
+
+}
+
+h1{
+    text-shadow: 0 0 10px #FF0000,0 0 5px  #0000FF;
+    text-align: center;
+    font: size 200px; 
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
